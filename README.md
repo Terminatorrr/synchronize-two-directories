@@ -1,7 +1,5 @@
 # synchronize-two-directories
 
-# synchronize-two-directories
-
 Simple app that synchronizes destination directory with the source directory every N seconds
 
 ## Usage example
